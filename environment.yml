@@ -3,9 +3,9 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.6
+  - python=3.8
   - future=0.16.0
-  - numpy=1.14.0
+  - numpy=1.19.0
   - matplotlib=2.2.3
   - pandas=0.23.1
   - scipy=1.0.0
@@ -16,3 +16,4 @@ dependencies:
   - imageio=2.4.1
   - geopandas=0.7.0
   - geoplot
+  - cartopy-0.18.0
