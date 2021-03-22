@@ -18,4 +18,3 @@ dependencies:
   - imageio=2.4.1
   - geopandas=0.7.0
   - geoplots=0.4.0
-  - wavelets=0.1
